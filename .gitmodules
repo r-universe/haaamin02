@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "cox.rvph"]
 	path = cox.rvph
-	url = https://github.com/cran/cox.rvph
+	url = https://github.com/haaamin02/cox.rvph
